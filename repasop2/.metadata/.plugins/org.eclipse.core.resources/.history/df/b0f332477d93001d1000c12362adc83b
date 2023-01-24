@@ -1,0 +1,25 @@
+package com.example.demo.uce.service;
+
+import com.example.demo.uce.modelo.CitaMedica;
+
+public class CitaMedicaServiceImpl implements ICitaMedicaService {
+
+	@Override
+	public void insertar(CitaMedica cita) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void actualizar(CitaMedica cita) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public CitaMedica buscar(String numeroCita) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

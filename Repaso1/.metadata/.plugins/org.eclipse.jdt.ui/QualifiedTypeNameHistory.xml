@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.demo.repository.ITransferenciaRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.ICuentaBancariaRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.ITranferenciaRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.ICuentaBancariaService"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.ITransferenciaService"/>
+    <fullyQualifiedTypeName name="com.example.demo.modelo.CuentaBancaria"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.IPropietarioService"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.IVehiculoService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.IMatriculaService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.IMatriculaGestorServiceImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.IMatriculaGestorService"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IPropietarioRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.modelo.Propietario"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IVehiculoRepository"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IMatriculaRepository"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,32 @@
+package com.example.demo.uce.service;
+
+import com.example.demo.uce.modelo.Doctor;
+import com.example.demo.uce.modelo.Paciente;
+
+public class PacienteServiceImpl implements IPacienteService {
+
+	@Override
+	public void insertar(Paciente paciente) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Doctor buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void actualizar(Paciente paciente) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void eliminar(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

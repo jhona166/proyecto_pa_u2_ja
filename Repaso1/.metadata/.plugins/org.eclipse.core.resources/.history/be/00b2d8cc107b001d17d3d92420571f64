@@ -1,0 +1,14 @@
+package com.example.demo.modelo;
+
+import java.math.BigDecimal;
+
+public class Vehiculo {
+	private String marca;
+	private String modelo;
+	private String placa;
+	private String tipo;
+	private BigDecimal precio;
+	
+	
+	
+}

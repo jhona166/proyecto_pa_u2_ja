@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=agencia_repasoprueba2_ja
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.0.1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Proyecto uce avanzada 
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=uce.gob.ec.avanzada
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=agencia_repasoprueba2_ja
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

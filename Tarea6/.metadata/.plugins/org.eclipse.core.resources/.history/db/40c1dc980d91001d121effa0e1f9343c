@@ -1,0 +1,13 @@
+package com.example.demo.uce.repository;
+
+import com.example.demo.uce.modelo.Estudiante;
+import com.example.demo.uce.modelo.Profesor;
+
+public interface IProfesor {
+	public void insertar(Estudiante estudiante);
+	public void actualizar(Estudiante estudiante);
+	//CRUD
+	public Profesor buscar(Integer id);
+	//CRUD
+	public void eliminar(Integer id);
+}

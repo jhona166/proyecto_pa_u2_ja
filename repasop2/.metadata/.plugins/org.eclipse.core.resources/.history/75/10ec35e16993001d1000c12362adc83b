@@ -1,0 +1,36 @@
+package com.example.demo.uce.repository;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.uce.modelo.Paciente;
+
+import jakarta.transaction.Transactional;
+@Repository
+@Transactional
+public class PacienteRepoImpl implements IPacienteRepo {
+
+	@Override
+	public void insertar(Paciente paciente) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Paciente buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void actualizar(Paciente paciente) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Paciente eliminar(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

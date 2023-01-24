@@ -1,0 +1,6 @@
+package com.example.demo.uce.repository;
+
+public interface CitaMedica {
+	public CitaMedica insertar(CitaMedica citaMedica);
+
+}

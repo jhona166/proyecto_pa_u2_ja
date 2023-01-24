@@ -1,0 +1,31 @@
+package com.example.demo.uce.repository;
+
+import com.example.demo.uce.modelo.Doctor;
+
+public class DoctorRepoImpl implements DoctorRepo {
+
+	@Override
+	public void insertar(Doctor doctor) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Doctor buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void actualizar(Doctor doctor) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void eliminar(Integer id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

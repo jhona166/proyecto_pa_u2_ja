@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.demo.uce.repository.IEstudianteRepo"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="com.example.demo.uce.repository.IProfesor"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.PersistenceContext"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IMatriculaRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.modelo.Propietario"/>
+    <fullyQualifiedTypeName name="com.example.demo.modelo.service.IPropietarioService"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IPropietarioRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.modelo.service.IVehiculoService"/>
+    <fullyQualifiedTypeName name="com.example.demo.repository.IVehiculoRepository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.annotation.Generated"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.SequenceGenerator"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.example.demo.uce.repository.IEmpleadoRepo"/>
+    <fullyQualifiedTypeName name="com.example.demo.uce.modelo.Empleado"/>
+    <fullyQualifiedTypeName name="com.example.demo.uce.service.IEmpleadoService"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+</qualifiedTypeNameHistroy>

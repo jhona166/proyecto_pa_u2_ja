@@ -1,0 +1,34 @@
+package com.example.demo.uce.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.demo.uce.modelo.Profesor;
+
+public class ProfesorServiceImpl implements IProfesorService{
+	@Autowired
+	private IProfesorService iProfesorService;
+	@Override
+	public void agregar(Profesor profesor) {
+		// TODO Auto-generated method stub
+		this.iProfesorService.agregar(profesor);
+	}
+
+	@Override
+	public void modificar(Profesor profesor) {
+		// TODO Auto-generated method stub
+		this.iProfesorService.modificar(profesor);
+	}
+
+	@Override
+	public Profesor buscar(Integer id) {
+		// TODO Auto-generated method stub
+		return this.iProfesorService.buscar(id);
+	}
+
+	@Override
+	public void eliminar(Integer id) {
+		// TODO Auto-generated method stub
+		this.iProfesorService.eliminar(id);
+	}
+
+}

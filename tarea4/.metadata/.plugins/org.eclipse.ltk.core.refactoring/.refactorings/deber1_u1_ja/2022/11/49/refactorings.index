@@ -1,0 +1,19 @@
+1669700504683	Copy compilation units
+1669700526766	Rename type 'Cliente'
+1669700553758	Rename type 'ClienteAfiliado'
+1669700565974	Rename type 'ClienteFfaa'
+1669700578050	Rename type 'Facturacion'
+1669700585315	Rename type 'Persona'
+1669700591513	Rename type 'Producto'
+1669700598509	Rename type 'Vendedor'
+1669743509920	Copy compilation units
+1669743532523	Rename type 'ClienteAfiliadoH'
+1669743547998	Rename type 'ClienteFfaaH'
+1669743571185	Rename type 'ClienteH'
+1669743584376	Rename type 'FacturacionH'
+1669743597319	Rename type 'PersonaH'
+1669743613282	Rename type 'ProductoH'
+1669743625823	Rename type 'VendedorH'
+1669745454836	Delete element
+1669745459429	Delete element
+1669752869663	Rename type 'ClienteRespositoryImpl'

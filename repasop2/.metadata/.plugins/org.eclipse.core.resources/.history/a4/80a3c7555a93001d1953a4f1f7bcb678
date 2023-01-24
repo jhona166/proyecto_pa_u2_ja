@@ -1,0 +1,11 @@
+package com.example.demo.uce.modelo;
+@Entity
+@Table(name="cita_medica")
+
+public class CitaMedica {
+	@Id 
+	@Column(name="cita_id")
+	private Integer id;
+	@Column(name="cia_numero_cita")
+	private 
+}
