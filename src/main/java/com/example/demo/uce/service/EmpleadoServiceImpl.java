@@ -32,7 +32,7 @@ public class EmpleadoServiceImpl implements IEmpleadoService{
 	@Override
 	public void borrar(Integer id) {
 		// TODO Auto-generated method stub
-		this.iEmpleadoRepo.borrar(id);;
+		this.iEmpleadoRepo.borrar(id);
 	}
 
 }
