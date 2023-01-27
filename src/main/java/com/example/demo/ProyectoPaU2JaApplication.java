@@ -1,7 +1,6 @@
 package com.example.demo;
 
-import java.util.ArrayList;
-import java.util.Iterator;
+import java.time.LocalDateTime;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,17 +8,17 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.example.demo.uce.modelo.Habitacion;
-import com.example.demo.uce.modelo.Hotel;
-import com.example.demo.uce.service.IHabitacionService;
-import com.example.demo.uce.service.IHotelService;
+import com.example.demo.uce.modelo.Banco;
+import com.example.demo.uce.modelo.CuentaBancaria;
+import com.example.demo.uce.service.IBancoService;
+import com.example.demo.uce.service.ICuentaBancariaService;
 
 @SpringBootApplication
 public class ProyectoPaU2JaApplication implements CommandLineRunner {
 	@Autowired
-	private IHotelService iHotelService;
+	IBancoService iBancoService;
 	@Autowired
-	private IHabitacionService iHabitacionService;
+	ICuentaBancariaService iCuentaBancariaService;
 	
 	public static void main(String[] args) {
 		SpringApplication.run(ProyectoPaU2JaApplication.class, args);
@@ -28,53 +27,47 @@ public class ProyectoPaU2JaApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		List<Habitacion> habitacionlist= new ArrayList<>();
-		
-		Hotel hotel=new Hotel();
-		hotel.setNombre("Quito");
-		hotel.setDireccion("Colon y Amazonas");
-		
-		Habitacion habitacion=new Habitacion();
-		habitacion.setNumero("12");
-		habitacion.setHotel(hotel);
-		habitacionlist.add(habitacion);
-		
-		Habitacion habitacion1=new Habitacion();
-		habitacion1.setNumero("24");
-		habitacion1.setHotel(hotel);
-		habitacionlist.add(habitacion1);
-		
-		Habitacion habitacion2=new Habitacion();
-		habitacion2.setNumero("36");
-		habitacion2.setHotel(hotel);
-		habitacionlist.add(habitacion2);
-		
-		
-		
-		hotel.setHabitaciones(habitacionlist);
+		Banco banco = new Banco();
+		banco.setNombre("Pichincha");
+		banco.setDireccion("Av Amazonas");
 
-		//this.iHotelService.crear(hotel);
+		Banco banco1 = new Banco();
+		banco1.setNombre("Solidario");
+		banco1.setDireccion("Av La Prensa");
 		
-		//BUSQUEDA Y ACTUALIZACION
 		
-		Hotel hotel2=this.iHotelService.buscar(4);
-		Habitacion habitacion4=new Habitacion();
-		habitacion4.setNumero("96");
-		habitacion4.setHotel(hotel2);
-		habitacionlist.add(habitacion4);
-		
-
-		
-		//BORRAR
-		//this.iHabitacionService.eliminar(7);
-		
-		//Busco - consulto Nombre - Imprimo Habitaciones
-		System.out.println(hotel2.getNombre());		
-		
-		for (Habitacion bh : habitacionlist) {
-			System.out.println(bh.getNumero());
-		}
+		CuentaBancaria cuenta =new CuentaBancaria();
+		cuenta.setNumero("123456789");
+		cuenta.setFecha(LocalDateTime.now());
+		cuenta.setBanco(banco);
 	
+		CuentaBancaria cuenta1 =new CuentaBancaria();
+		cuenta.setNumero("123456780");
+		cuenta.setFecha(LocalDateTime.now());
+		cuenta.setBanco(banco1);
+		
+		CuentaBancaria cuenta2 =new CuentaBancaria();
+		cuenta.setNumero("123456781");
+		cuenta.setFecha(LocalDateTime.now());
+		cuenta.setBanco(banco1);
+		
+		CuentaBancaria cuenta3 =new CuentaBancaria();
+		cuenta.setNumero("123456782");
+		cuenta.setFecha(LocalDateTime.now());
+		cuenta.setBanco(banco1);
+	//Creacion	
+		this.iBancoService.crear(banco);
+		this.iBancoService.crear(banco1);
+		this.iCuentaBancariaService.ingresar(cuenta1);
+		
+		//Buscar
+		//		Banco banco4 = this.iBancoService.buscar(2);
+//		System.out.println(banco4.getNombre());
+//	//Actualizar
+//		banco4.setNombre("Guayaquil");
+	//Eliminar
+	//	iBancoService.borrar(2);
+		//List<CuentaBancaria> cuentas = banco4.getCuentaBancaria();  
 		
 	}
 
