@@ -8,18 +8,16 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.example.demo.uce.modelo.Banco;
-import com.example.demo.uce.modelo.CuentaBancaria;
-import com.example.demo.uce.service.IBancoService;
-import com.example.demo.uce.service.ICuentaBancariaService;
+import com.example.demo.uce.modelo.Socio;
+import com.example.demo.uce.modelo.TarjetaCredito;
+import com.example.demo.uce.service.ISocioService;
+
+
 
 @SpringBootApplication
 public class ProyectoPaU2JaApplication implements CommandLineRunner {
 	@Autowired
-	IBancoService iBancoService;
-	@Autowired
-	ICuentaBancariaService iCuentaBancariaService;
-	
+	private ISocioService iSocioService;
 	public static void main(String[] args) {
 		SpringApplication.run(ProyectoPaU2JaApplication.class, args);
 	}
@@ -27,47 +25,35 @@ public class ProyectoPaU2JaApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		Banco banco = new Banco();
-		banco.setNombre("Pichincha");
-		banco.setDireccion("Av Amazonas");
+		Socio socio = new Socio();
+		socio.setNombre("Jhonatan");
+		socio.setApellido("Altamirano");
 
-		Banco banco1 = new Banco();
-		banco1.setNombre("Solidario");
-		banco1.setDireccion("Av La Prensa");
+		Socio socio1 = new Socio();
+		socio1.setNombre("Grace");
+		socio1.setApellido("Analuiza");
 		
+		Socio socio2 = new Socio();
+		socio2.setNombre("Lenin");
+		socio2.setApellido("Caroa");
 		
-		CuentaBancaria cuenta =new CuentaBancaria();
-		cuenta.setNumero("123456789");
-		cuenta.setFecha(LocalDateTime.now());
-		cuenta.setBanco(banco);
-	
-		CuentaBancaria cuenta1 =new CuentaBancaria();
-		cuenta.setNumero("123456780");
-		cuenta.setFecha(LocalDateTime.now());
-		cuenta.setBanco(banco1);
+		TarjetaCredito tarjeta = new TarjetaCredito();
+		tarjeta.setNumero("123456789");
+		tarjeta.setFechaCaducidad(LocalDateTime.now());
+		tarjeta.setSocio(socio);
 		
-		CuentaBancaria cuenta2 =new CuentaBancaria();
-		cuenta.setNumero("123456781");
-		cuenta.setFecha(LocalDateTime.now());
-		cuenta.setBanco(banco1);
-		
-		CuentaBancaria cuenta3 =new CuentaBancaria();
-		cuenta.setNumero("123456782");
-		cuenta.setFecha(LocalDateTime.now());
-		cuenta.setBanco(banco1);
-	//Creacion	
-		this.iBancoService.crear(banco);
-		this.iBancoService.crear(banco1);
-		this.iCuentaBancariaService.ingresar(cuenta1);
+		this.iSocioService.crear(socio);
 		
 		//Buscar
-		//		Banco banco4 = this.iBancoService.buscar(2);
-//		System.out.println(banco4.getNombre());
-//	//Actualizar
-//		banco4.setNombre("Guayaquil");
-	//Eliminar
-	//	iBancoService.borrar(2);
-		//List<CuentaBancaria> cuentas = banco4.getCuentaBancaria();  
+//		Socio socio4 = this.iSocioService.buscar(1);
+//		System.out.println(socio4.getNombre());
+		
+		//Actualizar
+//		socio4.setNombre("Danilo");
+//		this.iSocioService.actualizar(socio4);
+		
+		//Eliminar
+//		this.iSocioService.borrar(1);
 		
 	}
 
