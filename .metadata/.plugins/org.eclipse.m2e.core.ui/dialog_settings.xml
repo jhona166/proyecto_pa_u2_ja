@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\prueba_unidad2_mg"/>
 			<item value="C:\proyecto_pa_u2_ja"/>
+			<item value="C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja"/>
+			<item value="C:\prueba_unidad2_mg"/>
 			<item value="C:\prueba_pa_p2_mg"/>
 			<item value="C:\proyecto_u1_ja"/>
 		</list>

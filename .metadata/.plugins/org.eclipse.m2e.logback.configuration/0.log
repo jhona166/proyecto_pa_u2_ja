@@ -1655,3 +1655,351 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: only whites
 2023-01-24 17:03:17,920 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-24 17:03:17,935 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-01-24 17:03:17,943 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 09:20:36,378 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-27 09:25:30,052 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u2_ja:1.0.1-SNAPSHOT @ C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\pom.xml.
+2023-01-27 09:25:31,719 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/main/java
+2023-01-27 09:25:31,720 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-27 09:25:31,727 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-27 09:25:31,733 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/test/java
+2023-01-27 09:25:32,651 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-27 09:25:34,535 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 09:25:34,563 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 09:25:34,570 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 09:26:26,189 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 09:26:26,267 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 09:26:26,274 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 09:26:46,904 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 09:26:47,046 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 09:26:47,051 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:21:51,082 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:21:51,174 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:21:51,186 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:24:36,738 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:24:36,791 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:24:36,797 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:26:24,383 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:26:24,425 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:26:24,430 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:26:41,199 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:26:41,274 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:26:41,287 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:43:36,733 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:43:36,748 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:43:36,757 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:43:52,928 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:43:52,944 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:43:52,949 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:44:07,759 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:44:07,778 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:44:07,806 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 10:44:52,263 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 10:44:52,334 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 10:44:52,342 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:00:28,523 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:00:28,553 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:00:28,558 [Worker-36: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:05:55,599 [Worker-41: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:05:55,630 [Worker-41: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:05:55,635 [Worker-41: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:14:44,525 [Worker-45: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:14:44,538 [Worker-45: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:14:44,543 [Worker-45: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:33:40,870 [Worker-49: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:33:40,922 [Worker-49: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:33:40,928 [Worker-49: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:34:13,833 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:34:13,865 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:34:13,873 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:34:37,866 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:34:37,898 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:34:37,903 [Worker-52: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:38:26,860 [Worker-57: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:38:26,922 [Worker-57: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:38:26,927 [Worker-57: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:48:25,481 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:48:25,531 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:48:25,535 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 11:49:41,637 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 11:49:41,707 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 11:49:41,735 [Worker-64: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:05:47,691 [Worker-71: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:05:47,745 [Worker-71: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:05:47,770 [Worker-71: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:06:16,913 [Worker-74: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:06:16,928 [Worker-74: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:06:16,934 [Worker-74: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:07:18,408 [Worker-73: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:07:18,421 [Worker-73: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:07:18,428 [Worker-73: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:09:19,757 [Worker-76: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:09:19,793 [Worker-76: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:09:19,799 [Worker-76: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:12:08,750 [Worker-70: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:12:08,764 [Worker-70: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:12:08,790 [Worker-70: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:18:02,261 [Worker-79: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:18:02,321 [Worker-79: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:18:02,326 [Worker-79: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:21:53,967 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:21:54,034 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:21:54,039 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:23:39,114 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:23:39,129 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:23:39,152 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:28:20,712 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:28:20,730 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:28:20,760 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:29:36,940 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:29:36,956 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:29:36,968 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:33:00,572 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:33:00,583 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:33:00,587 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 12:35:23,133 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 12:35:23,148 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 12:35:23,153 [Worker-87: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:16:50,043 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:16:50,075 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:16:50,079 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:16:54,392 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:16:54,427 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:16:54,431 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:16:58,509 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:16:58,547 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:16:58,552 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:01,835 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:01,874 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:01,892 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:07,473 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:07,515 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:07,519 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:11,438 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:11,471 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:11,474 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:14,294 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:14,340 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:14,344 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:18,388 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:18,427 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:18,436 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:21,915 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:22,012 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:22,016 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:25,459 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:25,525 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:25,534 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 13:17:45,157 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 13:17:45,210 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 13:17:45,215 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:18:18,668 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:18:18,702 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:18:18,720 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:29:22,119 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:29:22,164 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:29:22,172 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:45:25,478 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:45:25,548 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:45:25,556 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:45:30,732 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:45:30,794 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:45:30,798 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:45:54,634 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:45:54,759 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:45:54,763 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:47:54,825 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:47:54,874 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:47:54,878 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:54:00,951 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:54:00,964 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:54:00,975 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 14:55:06,763 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 14:55:06,815 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 14:55:06,819 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-27 15:06:08,735 [Worker-116: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-27 15:06:08,748 [Worker-116: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-27 15:06:08,752 [Worker-116: Launching proyecto_pa_u2_ja - ProyectoPaU2JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-29 23:45:49,793 [Worker-161: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:ejercicio_prueba1_ja:1.0.1-SNAPSHOT @ C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\pom.xml.
+2023-01-29 23:45:50,445 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_prueba1_ja/src/main/java
+2023-01-29 23:45:50,446 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicio_prueba1_ja/src/main/resources
+2023-01-29 23:45:50,451 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicio_prueba1_ja/src/main/resources
+2023-01-29 23:45:50,459 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_prueba1_ja/src/test/java
+2023-01-29 23:45:51,094 [Worker-161: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-01-29 23:45:51,103 [Worker-161: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-29 23:45:51,794 [Worker-161: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:ejercicio_prueba1_ja:1.0.1-SNAPSHOT @ C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\pom.xml.
+2023-01-29 23:45:52,746 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_prueba1_ja/src/main/java
+2023-01-29 23:45:52,747 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicio_prueba1_ja/src/main/resources
+2023-01-29 23:45:52,748 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicio_prueba1_ja/src/main/resources
+2023-01-29 23:45:52,751 [Worker-161: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_prueba1_ja/src/test/java
+2023-01-29 23:45:53,477 [Worker-161: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-01-29 23:45:55,238 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-29 23:45:55,244 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-29 23:45:55,254 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:56:02,102 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:56:02,160 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:56:02,169 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:56:11,353 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:56:11,407 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:56:11,417 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:56:20,279 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:56:20,314 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:56:20,332 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:57:38,182 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:57:38,239 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:57:38,246 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:57:46,299 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:57:46,412 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:57:46,474 [Worker-171: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:58:01,237 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:58:01,378 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:58:01,389 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:58:06,562 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:58:06,742 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:58:06,751 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:58:17,493 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:58:17,679 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:58:17,685 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 00:58:44,595 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:58:44,721 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:58:44,758 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:07:17,828 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:07:17,876 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:07:17,882 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:08:09,727 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:08:09,745 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:08:09,749 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:08:21,652 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:08:21,732 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:08:21,740 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:09:39,870 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:09:39,909 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:09:39,913 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:15:13,064 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:15:13,080 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:15:13,092 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:16:16,164 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:16:16,289 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:16:16,295 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:24:58,687 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:24:58,706 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:24:58,712 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:26:09,661 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:26:09,774 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:26:09,778 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:26:15,235 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:26:15,327 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:26:15,332 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:26:15,436 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:26:15,493 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:26:15,497 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u2_ja\src\test\resources
+2023-01-30 01:35:37,738 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:35:37,788 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:35:37,823 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-30 01:39:18,346 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 01:39:18,378 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 01:39:18,383 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-31 09:44:32,040 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 09:44:32,193 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:44:32,205 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\ejercicio_prueba1_ja\src\test\resources
+2023-01-31 09:48:15,875 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-31 09:51:21,011 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u2_ja:1.0.1-SNAPSHOT @ C:\proyecto_pa_u2_ja\pom.xml.
+2023-01-31 09:51:23,273 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/main/java
+2023-01-31 09:51:23,274 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-31 09:51:23,279 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_ja/src/main/resources
+2023-01-31 09:51:23,287 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_ja/src/test/java
+2023-01-31 09:51:23,951 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-31 09:51:25,040 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 09:51:25,209 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:51:25,216 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 09:52:39,405 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u2_ja:1.0.1-SNAPSHOT @ C:\proyecto_pa_u2_ja\pom.xml.
+2023-01-31 09:52:40,833 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:52:40,834 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:52:40,841 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 09:52:42,399 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 09:52:42,426 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:52:42,437 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 09:52:53,492 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 09:52:53,517 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 09:52:53,524 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 22:21:55,576 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 22:22:15,615 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:22:15,648 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:22:15,656 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 22:22:19,168 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-31 22:22:19,169 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-31 22:22:19,170 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-31 22:22:19,193 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-31 22:22:19,214 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-31 22:22:19,214 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-31 22:22:19,214 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\prueba_pa_p2_mg\src\test\resources
+2023-01-31 22:22:21,268 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:22:21,269 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:22:21,274 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\proyecto_pa_u2_ja\src\test\resources
+2023-01-31 22:37:49,129 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u3_ja:1.0.1-SNAPSHOT @ C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\pom.xml.
+2023-01-31 22:37:50,657 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/main/java
+2023-01-31 22:37:50,658 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:37:50,665 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:37:50,673 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/test/java
+2023-01-31 22:37:51,598 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-31 22:37:51,605 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-31 22:37:52,370 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u3_ja:1.0.1-SNAPSHOT @ C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\pom.xml.
+2023-01-31 22:37:53,319 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/main/java
+2023-01-31 22:37:53,319 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:37:53,320 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:37:53,321 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/test/java
+2023-01-31 22:37:54,405 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-01-31 22:37:55,447 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:37:55,488 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:37:55,494 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:39:12,295 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:39:12,341 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:39:12,355 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:39:25,497 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:39:25,547 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:39:25,578 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:39:36,340 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:39:36,358 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:39:36,364 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:39:57,526 [Worker-14: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:39:57,540 [Worker-14: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:39:57,547 [Worker-14: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:45:22,589 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:45:22,625 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:45:22,643 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 22:46:53,437 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:46:53,476 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:46:53,488 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:08:36,091 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:08:36,106 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:08:36,112 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:08:59,126 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:08:59,140 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:08:59,168 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:18:02,944 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:18:02,996 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:18:03,002 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:18:47,596 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:18:47,629 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:18:47,635 [Worker-27: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:25:42,580 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:25:42,594 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:25:42,600 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:37:28,873 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:37:29,082 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:37:29,087 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:39:07,753 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:39:07,801 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:39:07,822 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:40:28,496 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:40:28,569 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:40:28,575 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:41:17,820 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:41:17,888 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:41:17,895 [Worker-39: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:41:52,974 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:41:53,007 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:41:53,014 [Worker-41: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:43:33,113 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:43:33,149 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 23:43:33,154 [Worker-35: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Jonatan Altamirano\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\proyecto_pa_u3_ja\src\test\resources
+2023-01-31 23:44:21,437 [Worker-42: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 23:44:21,447 [Worker-42: Launching proyecto_pa_u3_ja - ProyectoPaU3JaApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

@@ -51,3 +51,44 @@
 2023-01-24 16:41:57,493 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-24 16:41:57,539 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-01-24 16:41:57,545 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temporal\proyecto_pa_u2_sc\src\test\resources
+2023-01-25 16:45:02,697 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 16:45:21,660 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:45:21,828 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-25 16:45:21,865 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temporal\proyecto_pa_u2_sc\src\test\resources
+2023-01-26 01:25:01,428 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-26 02:27:39,348 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u2_sc:1.0.1-SNAPSHOT @ C:\Temporal\proyecto_pa_u2_sc\pom.xml.
+2023-01-26 02:27:40,785 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_sc/src/main/java
+2023-01-26 02:27:40,786 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_sc/src/main/resources
+2023-01-26 02:27:40,792 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u2_sc/src/main/resources
+2023-01-26 02:27:40,798 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u2_sc/src/test/java
+2023-01-26 02:27:41,593 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-26 02:27:42,852 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-26 02:27:42,888 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-26 02:27:42,895 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temporal\proyecto_pa_u2_sc\src\test\resources
+2023-01-29 23:59:48,862 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-30 00:00:02,323 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-30 00:00:02,376 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-30 00:00:02,384 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temporal\proyecto_pa_u2_sc\src\test\resources
+2023-01-30 00:01:07,693 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_u1_sc:1.0.0-SNAPSHOT @ C:\Vizualizar\proyecto_u1_gc\pom.xml.
+2023-01-30 00:01:10,346 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_u1_sc/src/main/java
+2023-01-30 00:01:10,347 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_u1_sc/src/main/resources
+2023-01-30 00:01:10,353 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_u1_sc/src/main/resources
+2023-01-30 00:01:10,361 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_u1_sc/src/test/java
+2023-01-30 00:01:10,897 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-30 00:01:13,717 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 00:01:13,718 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-30 00:01:13,719 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 00:01:13,771 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 00:01:13,779 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 00:01:13,779 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-30 00:01:13,779 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Vizualizar\proyecto_u1_gc\src\test\resources
+2023-01-31 22:26:49,036 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 22:30:47,711 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: uce.gob.ec.avanzada:proyecto_pa_u3_ja:1.0.1-SNAPSHOT @ C:\Vizualizar\proyecto_pa_u3_ja\pom.xml.
+2023-01-31 22:30:49,847 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/main/java
+2023-01-31 22:30:49,848 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:30:49,856 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /proyecto_pa_u3_ja/src/main/resources
+2023-01-31 22:30:49,862 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /proyecto_pa_u3_ja/src/test/java
+2023-01-31 22:30:50,673 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-01-31 22:30:52,687 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 22:30:52,719 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 22:30:52,726 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Vizualizar\proyecto_pa_u3_ja\src\test\resources
